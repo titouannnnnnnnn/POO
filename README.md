@@ -1,5 +1,8 @@
 # POO
+
 Projet POO M2 272 - backtesting crypto
+
+BICKERT Flavie - CADIOU Titouan - VARELA Lucas - WAHICHE Jules
 
 Fichier data, dossier ipnyb et document PDF qui explique notre projet.
 
